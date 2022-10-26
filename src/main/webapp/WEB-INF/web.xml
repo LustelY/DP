@@ -27,7 +27,7 @@
       
       <init-param>
          <param-name>contextConfigLocation</param-name>
-         <param-value>com.cross.Danmat.Config.WebMVCConfig</param-value>
+         <param-value>com.DGD.DP.config.WebMVCConfig</param-value>
       <!--    <param-value>/WEB-INF/spring/appServlet/servlet-context.xml</param-value>   --> 
       </init-param>
       <load-on-startup>1</load-on-startup>
